@@ -1,0 +1,26 @@
+{
+  "name": "react-native-sync-localstorage-module",
+  "version": "0.0.3",
+  "description": "None async local storage-module",
+  "main": "localStorage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinjiPrasetio/eact-native-sync-localstorage-module.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "local",
+    "storage",
+    "synchronous"
+  ],
+  "author": "https://github.com/SinjiPrasetio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinjiPrasetio/eact-native-sync-localstorage-module/issues"
+  },
+  "homepage": "https://github.com/SinjiPrasetio/eact-native-sync-localstorage-module#readme"
+}
