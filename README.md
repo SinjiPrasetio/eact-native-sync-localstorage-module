@@ -3,8 +3,8 @@ None async local storage based from https://www.npmjs.com/package/react-native-s
 
 ## [Installation]
     npm install --save react-native-sync-localstorage-module @react-native-async-storage/async-storage
-Or
-    `yarn add react-native-sync-localstorage-module @react-native-async-storage/async-storage`
+## [Yarn]
+    yarn add react-native-sync-localstorage-module @react-native-async-storage/async-storage
 
 ## [Usage]
 
