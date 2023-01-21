@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SinjiPrasetio/eact-native-sync-localstorage-module.git"
+    "url": "git+https://github.com/SinjiPrasetio/react-native-sync-localstorage-module.git"
   },
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
   "author": "https://github.com/SinjiPrasetio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SinjiPrasetio/eact-native-sync-localstorage-module/issues"
+    "url": "https://github.com/SinjiPrasetio/react-native-sync-localstorage-module/issues"
   },
-  "homepage": "https://github.com/SinjiPrasetio/eact-native-sync-localstorage-module#readme"
+  "homepage": "https://github.com/SinjiPrasetio/react-native-sync-localstorage-module#readme"
 }
